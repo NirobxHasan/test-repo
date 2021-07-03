@@ -1,3 +1,13 @@
 h1{
     color: brown;
 }
+
+h2{
+    color: chartreuse;
+}
+
+img{
+    height: 25%;
+    width: 25%;
+    margin: 5%;
+}
